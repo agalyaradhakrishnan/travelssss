@@ -1,0 +1,14 @@
+.section-padding {
+	padding: 100px 0;
+}
+.img-area img{
+	width: 100%;
+}
+.service .card-body i{
+	font-size: 50px;
+}
+@media (max-width:480px){
+	.about img{
+		width:80%;
+	}
+}
